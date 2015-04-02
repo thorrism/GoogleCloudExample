@@ -51,6 +51,6 @@
         android:layout_centerVertical="true"
         android:text="@string/empty_message"
         android:textStyle="bold|italic"
-        android:fontSize="14sp"
+        android:textSize="14sp"
         android:visibility="gone"/>
 </RelativeLayout>
