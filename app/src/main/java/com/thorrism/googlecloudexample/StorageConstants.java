@@ -7,8 +7,8 @@ import android.content.Context;
  */
 public class StorageConstants {
     public static Context CONTEXT                        = null;
-    public static final String BUCKET_NAME               = "lucas-alan-crawford";
-    public static final String PROJECT_ID_PROPERTY       = "943760786158";
-    public static final String APPLICATION_NAME_PROPERTY = "Filmstrip";
-    public static final String ACCOUNT_ID_PROPERTY       = "943760786158-6ihf980e7avfgeti1k9t20sqva5q2qbd@developer.gserviceaccount.com";
+    public static final String BUCKET_NAME               = "CREATE-BUCKET-NAME";
+    public static final String PROJECT_ID_PROPERTY       = "1234567891011";
+    public static final String APPLICATION_NAME_PROPERTY = "YOUR-PROJECT-NAME-HERE";
+    public static final String ACCOUNT_ID_PROPERTY       = "1234567891011-RANDOMHASHVALUE@developer.gserviceaccount.com";
 }
